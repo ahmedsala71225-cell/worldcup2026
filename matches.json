@@ -1,22 +1,15 @@
 {
   "competition": "FIFA World Cup 2026",
   "lastUpdate": "2026-06-22",
-
   "matches": [
     {
       "id": 1,
-      "home": "Argentina",
-      "away": "Austria",
+      "home": "Egypt",
+      "away": "Argentina",
+      "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/960px-Flag_of_Egypt.svg.png",
+      "awayFlag": "",
       "date": "2026-06-22",
       "time": "20:00",
-      "status": "upcoming"
-    },
-    {
-      "id": 2,
-      "home": "France",
-      "away": "Iraq",
-      "date": "2026-06-22",
-      "time": "00:00",
       "status": "upcoming"
     }
   ]
