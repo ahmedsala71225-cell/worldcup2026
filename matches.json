@@ -1,0 +1,21 @@
+{
+  "competition": "FIFA World Cup 2026",
+  "lastUpdate": "2026-06-11",
+
+  "matches": [
+    {
+      "id": 1,
+      "home": "Team A",
+      "away": "Team B",
+      "homeFlag": "",
+      "awayFlag": "",
+      "date": "2026-06-11",
+      "time": "03:00",
+      "status": "upcoming",
+      "scoreHome": "",
+      "scoreAway": "",
+      "group": "A",
+      "stadium": "Stadium Name"
+    }
+  ]
+}
