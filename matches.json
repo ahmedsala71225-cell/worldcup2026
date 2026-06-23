@@ -1,16 +1,25 @@
 {
   "competition": "FIFA World Cup 2026",
-  "lastUpdate": "2026-06-22",
-  "matches": [
-    {
-      "id": 1,
-      "home": "Egypt",
-      "away": "Argentina",
-      "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/960px-Flag_of_Egypt.svg.png",
-      "awayFlag": "",
-      "date": "2026-06-22",
-      "time": "20:00",
-      "status": "upcoming"
-    }
-  ]
+
+  "currentMatch": {
+    "home": "Norway",
+    "away": "Senegal",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/NOR.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/SEN.jpg",
+    "scoreHome": "0",
+    "scoreAway": "0",
+    "status": "live",
+    "date": "2026-06-22",
+    "time": "20:00"
+  },
+
+  "nextMatch": {
+    "home": "France",
+    "away": "Iraq",
+    "homeFlag": "رابط_علم_فرنسا",
+    "awayFlag": "رابط_علم_العراق",
+    "status": "upcoming",
+    "date": "2026-06-23",
+    "time": "00:00"
+  }
 }
