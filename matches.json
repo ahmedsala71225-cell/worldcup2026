@@ -2,24 +2,24 @@
   "competition": "🏆 FIFA World Cup 2026",
   
   "currentMatch": {
-    "home": "ALG",
-    "away": "JOR",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ALG.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/JOR.jpg",
-    "scoreHome": "2",
-    "scoreAway": "1",
-    "status": "finished",
-    "date": "2026-06-22",
-    "time": "20:00"
-  },
-
-  "nextMatch": {
     "home": "POR",
     "away": "UZB",
     "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/POR.jpg",
     "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/UZB.jpg",
-    "status": "Next",
+    "scoreHome": "0",
+    "scoreAway": "0",
+    "status": "finished",
     "date": "2026-06-23",
     "time": "08:00"
+  },
+
+  "nextMatch": {
+    "home": "ENG",
+    "away": "GHA",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ENG.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/GHA.jpg",
+    "status": "Next",
+    "date": "2026-06-23",
+    "time": "11:00"
   }
 }
