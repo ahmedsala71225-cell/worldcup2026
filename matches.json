@@ -1,6 +1,6 @@
 {
-  "competition": "FIFA World Cup 2026",
-
+  "competition": "🏆 FIFA World Cup 2026",
+  
   "currentMatch": {
     "home": "Norway",
     "away": "Senegal",
@@ -8,7 +8,7 @@
     "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/SEN.jpg",
     "scoreHome": "2",
     "scoreAway": "0",
-    "status": "Live",
+    "status": "🟢 Live",
     "date": "2026-06-22",
     "time": "20:00"
   },
@@ -16,9 +16,9 @@
   "nextMatch": {
     "home": "France",
     "away": "Iraq",
-    "homeFlag": "رابط_علم_فرنسا",
-    "awayFlag": "رابط_علم_العراق",
-    "status": "upcoming",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/FRA.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/IRQ.jpg",
+    "status": "⏳ Upcoming",
     "date": "2026-06-23",
     "time": "00:00"
   }
