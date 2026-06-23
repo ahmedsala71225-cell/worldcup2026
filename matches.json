@@ -8,18 +8,18 @@
     "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/GHA.jpg",
     "scoreHome": "0",
     "scoreAway": "0",
-    "status": "ht",
+    "status": "live",
     "date": "2026-06-23",
     "time": ""
   },
 
   "nextMatch": {
-    "home": "No Match",
-    "away": "No Match",
-    "homeFlag": "",
-    "awayFlag": "",
+    "home": "PAN",
+    "away": "CRO",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/PAN.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/CRO.jpg",
     "status": "Next",
     "date": "2026-06-23",
-    "time": "SOON"
+    "time": "02:00"
   }
 }
