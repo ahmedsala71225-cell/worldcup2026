@@ -2,8 +2,8 @@
   "competition": "🏆 FIFA World Cup 2026",
   
   "currentMatch": {
-    "home": "Colombi",
-    "away": "DR Congo",
+    "home": "Colombia",
+    "away": "Congo DR",
     "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/COL.jpg",
     "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/COD.jpg",
     "scoreHome": "0",
@@ -20,6 +20,6 @@
     "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/QAT.jpg",
     "status": "Next",
     "date": "2026-06-23",
-    "time": "10:00"
+    "time": "10:00 PM"
   }
 }
