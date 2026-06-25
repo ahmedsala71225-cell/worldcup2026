@@ -2,24 +2,24 @@
   "competition": "🏆 FIFA World Cup 2026",
 
   "currentMatch": {
-    "home": "Morocco",
-    "away": "Haiti",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/MAR.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/HAI.jpg",
-    "scoreHome": "4",
-    "scoreAway": "2",
-    "status": "finished",
+    "home": "RSA",
+    "away": "KOR",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/RSA.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/KOR.jpg",
+    "scoreHome": "0",
+    "scoreAway": "0",
+    "status": "04:00",
     "date": "2026-06-23",
     "time": ""
   },
 
   "nextMatch": {
-    "home": "RSA",
-    "away": "KOR",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/RSA.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/KOR.jpg",
+    "home": "ECU",
+    "away": "GER",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ECU.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/GER.jpg",
     "status": "Next",
     "date": "2026-06-23",
-    "time": "04:00 am"
+    "time": "11:00 pm"
   }
 }
