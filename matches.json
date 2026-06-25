@@ -13,8 +13,8 @@
     "status": "finished",
 
     "phase": "1H",
-    "kickoff": "18:00 PM",
-    "secondHalfKickoff": "19:00 PM",
+    "kickoff": "18:00",
+    "secondHalfKickoff": "19:00",
 
     "date": "2026-06-23",
     "time": ""
