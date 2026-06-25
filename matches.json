@@ -2,15 +2,15 @@
   "competition": "🏆 FIFA World Cup 2026",
 
   "currentMatch": {
-    "home": "RSA",
-    "away": "KOR",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/RSA.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/KOR.jpg",
+    "home": "ECU",
+    "away": "GER",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ECU.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/GER.jpg",
 
-    "scoreHome": "1",
+    "scoreHome": "0",
     "scoreAway": "0",
 
-    "status": "finished",
+    "status": "11:00 PM",
 
     "phase": "",
     "kickoff": "23:00",
@@ -21,12 +21,12 @@
   },
 
   "nextMatch": {
-    "home": "ECU",
-    "away": "GER",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ECU.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/GER.jpg",
+    "home": "no match",
+    "away": "no match",
+    "homeFlag": "",
+    "awayFlag": "",
     "status": "Next",
     "date": "2026-06-23",
-    "time": "11:00 PM"
+    "time": "soon"
   }
 }
