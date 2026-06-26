@@ -2,31 +2,31 @@
   "competition": "🏆 FIFA World Cup 2026",
 
   "currentMatch": {
-    "home": "TUR",
-    "away": "USA",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/TUR.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/USA.jpg",
+    "home": "SEN",
+    "away": "IRQ",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/SEN.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/IRQ.jpg",
 
-    "scoreHome": "3",
-    "scoreAway": "2",
+    "scoreHome": "0",
+    "scoreAway": "0",
 
-    "status": "🔴 FINISHED",
+    "status": "Upcoming 10:00",
     "showShape": "1",
     "phase": "",
-    "kickoff": "05:01",
-    "secondHalfKickoff": "06:09",
+    "kickoff": "22:01",
+    "secondHalfKickoff": "22:01",
 
     "date": "2026-06-23",
     "time": ""
   },
 
   "nextMatch": {
-    "home": "SEN",
-    "away": "IRQ",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/SEN.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/IRQ.jpg",
+    "home": "URU",
+    "away": "ESP",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/URU.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ESP.jpg",
     "status": "Next",
     "date": "2026-06-23",
-    "time": "10:00 PM"
+    "time": "03:00 AM"
   }
 }
