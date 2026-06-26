@@ -1,5 +1,5 @@
 {
-  "competition": "🏆 FIFA World Cup 2026",
+  "competition": "🏆 FIFA World Cup 2026 🏆",
 
   "currentMatch": {
     "home": "TUR",
@@ -12,9 +12,9 @@
 
     "status": "05:00",
 
-    "phase": "",
-    "kickoff": "02:00",
-    "secondHalfKickoff": "03:07",
+    "phase": "1H",
+    "kickoff": "05:00",
+    "secondHalfKickoff": "05:05",
 
     "date": "2026-06-23",
     "time": ""
