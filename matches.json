@@ -10,11 +10,11 @@
     "scoreHome": "0",
     "scoreAway": "0",
 
-    "status": "Upcoming 10:00",
+    "status": "🟢 live",
     "showShape": "1",
-    "phase": "",
-    "kickoff": "22:01",
-    "secondHalfKickoff": "22:01",
+    "phase": "1H",
+    "kickoff": "22:02",
+    "secondHalfKickoff": "22:02",
 
     "date": "2026-06-23",
     "time": ""
