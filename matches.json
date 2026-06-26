@@ -21,10 +21,10 @@
   },
 
   "nextMatch": {
-    "home": "URU",
-    "away": "ESP",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/URU.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ESP.jpg",
+    "home": "KSA",
+    "away": "CPV",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/KSA.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/CPV.jpg",
     "status": "Next",
     "date": "2026-06-23",
     "time": "03:00 AM"
