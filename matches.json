@@ -2,31 +2,31 @@
   "competition": "🏆 FIFA World Cup 2026",
 
   "currentMatch": {
-    "home": "EGY",
-    "away": "IRN",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/EGY.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/IRN.jpg",
+    "home": "POR",
+    "away": "COL",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/POR.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/COL.jpg",
 
-    "scoreHome": "1",
-    "scoreAway": "1",
+    "scoreHome": "0",
+    "scoreAway": "0",
 
-    "status": "⚪ FINISHED",
+    "status": "Upcoming 02:30",
     "showShape": "1",
     "phase": "",
-    "kickoff": "06:01",
-    "secondHalfKickoff": "07:10",
+    "kickoff": "02:30",
+    "secondHalfKickoff": "02:30",
 
     "date": "2026-06-23",
     "time": ""
   },
 
   "nextMatch": {
-    "home": "POR",
-    "away": "COL",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/POR.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/COL.jpg",
+    "home": "ALG",
+    "away": "AUT",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ALG.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/AUT.jpg",
     "status": "Next",
     "date": "2026-06-23",
-    "time": "02:30 AM"
+    "time": "05:00 AM"
   }
 }
