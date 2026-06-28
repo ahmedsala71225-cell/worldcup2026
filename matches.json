@@ -7,12 +7,12 @@
     "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ALG.jpg",
     "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/AUT.jpg",
 
-    "scoreHome": "2",
+    "scoreHome": "3",
     "scoreAway": "2",
 
-    "status": "🟢 Live 2H",
+    "status": "FINISHED",
     "showShape": "1",
-    "phase": "2H",
+    "phase": "",
     "kickoff": "05:01",
     "secondHalfKickoff": "06:08",
 
