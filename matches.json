@@ -13,8 +13,8 @@
     "status": "🟢 Live",
     "showShape": "1",
     "phase": "1H",
-    "kickoff": "10:01",
-    "secondHalfKickoff": "",
+    "kickoff": "10:00",
+    "secondHalfKickoff": "10:00",
 
     "date": "2026-06-23",
     "time": ""
