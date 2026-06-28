@@ -10,11 +10,11 @@
     "scoreHome": "0",
     "scoreAway": "0",
 
-    "status": "🔴 Half Time",
+    "status": "🟢 Live 2H",
     "showShape": "1",
-    "phase": "HT",
+    "phase": "2H",
     "kickoff": "02:32",
-    "secondHalfKickoff": "02:32",
+    "secondHalfKickoff": "03:39",
 
     "date": "2026-06-23",
     "time": ""
