@@ -2,31 +2,31 @@
   "competition": "🏆 FIFA World Cup 2026",
 
   "currentMatch": {
-    "home": "ALG",
-    "away": "AUT",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ALG.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/AUT.jpg",
+    "home": "RSA",
+    "away": "CAN",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/RSA.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/CAN.jpg",
 
-    "scoreHome": "3",
-    "scoreAway": "3",
+    "scoreHome": "0",
+    "scoreAway": "0",
 
-    "status": "FINISHED",
-    "showShape": "0",
+    "status": "Upcoming 10:00",
+    "showShape": "1",
     "phase": "",
-    "kickoff": "05:01",
-    "secondHalfKickoff": "06:08",
+    "kickoff": "10:01",
+    "secondHalfKickoff": "",
 
     "date": "2026-06-23",
     "time": ""
   },
 
   "nextMatch": {
-    "home": "RSA",
-    "away": "CAN",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/RSA.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/CAN.jpg",
+    "home": "no match",
+    "away": "no match",
+    "homeFlag": "",
+    "awayFlag": "",
     "status": "Next",
     "date": "2026-06-23",
-    "time": "10:00 PM"
+    "time": "SOON"
   }
 }
