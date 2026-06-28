@@ -10,9 +10,9 @@
     "scoreHome": "1",
     "scoreAway": "1",
 
-    "status": "🟢 Live 1H",
+    "status": "🔴 Half Time",
     "showShape": "1",
-    "phase": "1H",
+    "phase": "HT",
     "kickoff": "05:01",
     "secondHalfKickoff": "",
 
