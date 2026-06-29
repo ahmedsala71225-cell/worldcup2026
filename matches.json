@@ -7,10 +7,10 @@
     "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/GER.jpg",
     "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/PAR.jpg",
 
-    "scoreHome": "1",
-    "scoreAway": "1",
+    "scoreHome": "3",
+    "scoreAway": "4",
 
-    "status": "⚪ PEN 3-4",
+    "status": "⚪ FT PEN",
     "showShape": "1",
     "phase": "",
     "kickoff": "20:01",
