@@ -2,15 +2,15 @@
   "competition": "🏆 FIFA World Cup 2026",
 
   "currentMatch": {
-    "home": "MEX",
-    "away": "ECU",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/MEX.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ECU.jpg",
+    "home": "BEL",
+    "away": "SEN",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/BEL.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/SEN.jpg",
 
-    "scoreHome": "2",
+    "scoreHome": "0",
     "scoreAway": "0",
 
-    "status": "⚪ FINISHED",
+    "status": "11:00 PM",
     "showShape": "1",
     "phase": "",
     "kickoff": "",
@@ -21,12 +21,12 @@
   },
 
   "nextMatch": {
-    "home": "BEL",
-    "away": "SEN",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/BEL.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/SEN.jpg",
+    "home": "USA",
+    "away": "BIH",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/USA.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/BIH.jpg",
     "status": "Next",
     "date": "2026-06-23",
-    "time": "11:00 PM"
+    "time": "03:00 PM"
   }
 }
