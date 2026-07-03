@@ -7,10 +7,10 @@
     "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/EGY.jpg",
     "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/AUS.jpg",
 
-    "scoreHome": "1",
-    "scoreAway": "1",
+    "scoreHome": "4",
+    "scoreAway": "2",
 
-    "status": "🟢 Live PEN",
+    "status": "FINISHED PEN",
     "showShape": "1",
     "phase": "",
     "kickoff": "",
