@@ -7,8 +7,8 @@
     "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ARG.jpg",
     "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/EGY.jpg",
 
-    "scoreHome": "0:0",
-    "scoreAway": "",
+    "scoreHome": "0",
+    "scoreAway": "0",
 
     "status": "07:00 PM",
     "showShape": "1",
