@@ -21,12 +21,12 @@
   },
 
   "nextMatch": {
-    "home": "NO MATCH",
-    "away": "NO MATCH",
-    "homeFlag": "",
-    "awayFlag": "",
+    "home": "NOR",
+    "away": "ENG",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/NOR.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ENG.jpg",
     "status": "Next",
     "date": "2026-07-06",
-    "time": "SOON"
+    "time": "12:00 AM"
   }
 }
