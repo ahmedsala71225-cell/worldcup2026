@@ -2,15 +2,15 @@
   "competition": "🏆 FIFA World Cup 2026",
 
   "currentMatch": {
-    "home": "FRA",
-    "away": "MAR",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/FRA.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/MAR.jpg",
+    "home": "ESP",
+    "away": "BEL",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ESP.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/BEL.jpg",
 
-    "scoreHome": "2",
+    "scoreHome": "0",
     "scoreAway": "0",
 
-    "status": "FINISHED",
+    "status": "10:00 PM",
     "showShape": "1",
     "phase": "",
     "kickoff": "",
@@ -21,10 +21,10 @@
   },
 
   "nextMatch": {
-    "home": "ESP",
-    "away": "BEL",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ESP.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/BEL.jpg",
+    "home": "NO MATCH",
+    "away": "NO MATCH",
+    "homeFlag": "",
+    "awayFlag": "",
     "status": "Next",
     "date": "2026-07-06",
     "time": "SOON"
