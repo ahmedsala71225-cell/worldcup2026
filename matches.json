@@ -2,31 +2,31 @@
   "competition": "🏆 FIFA World Cup 2026",
 
   "currentMatch": {
-    "home": "ENG",
-    "away": "ARG",
-    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ENG.jpg",
-    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ARG.jpg",
+    "home": "FRA",
+    "away": "ENG",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/FRA.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ENG.jpg",
 
-    "scoreHome": "1",
+    "scoreHome": "0",
     "scoreAway": "2",
 
-    "status": "⚪ FINISHED",
+    "status": "🟢 Live 1H",
     "showShape": "1",
     "phase": "",
     "kickoff": "",
     "secondHalfKickoff": "",
 
-    "date": "2026-07-15",
+    "date": "2026-07-19",
     "time": ""
   },
 
   "nextMatch": {
-    "home": "SOON",
-    "away": "SOON",
-    "homeFlag": "",
-    "awayFlag": "",
+    "home": "ESP",
+    "away": "ARG",
+    "homeFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ESP.jpg",
+    "awayFlag": "https://raw.githubusercontent.com/ahmedsala71225-cell/worldcup2026/refs/heads/main/flags/ARG.jpg",
     "status": "Next",
     "date": "2026-07-06",
-    "time": "FINAL"
+    "time": "10:00 PM"
   }
 }
